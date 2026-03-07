@@ -1,8 +1,5 @@
 # CVL_Assignment01: Image Enhancement
 
-## Objective
-The aim of this assignment is to improve the quality of a specific type of image. For this project, I selected an **underexposed (dark) image with low contrast**. My goal is to reveal details hidden in the shadows and make the picture much clearer.
-
 ## Methodology
 To correct the dark image, I used a **Linear Transformation** method with Python and the OpenCV library. This improvement relies on the following mathematical formula:
 
